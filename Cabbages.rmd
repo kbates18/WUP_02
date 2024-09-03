@@ -61,3 +61,5 @@ Null Hypothesis (H0): There is no significant difference between the groups or c
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+Looking at the results, the data charts show that C52 has a greater veggy intake than c39, which is why we are rejecting the null.
+
